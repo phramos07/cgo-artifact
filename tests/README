@@ -1,0 +1,12 @@
+TEST 1: Comparing SRAA no alias responses with BASICAA and CFL-AA.
+				Target: LLVM's test-suite
+
+
+TEST 2: Counting the number of memory nodes on the PDG (Program Dependence Graph)
+				generated when runnning SRAA analysis. Comparing it to BASICAA.
+				Target: random generated programs using Csmith 2.2.
+
+TEST 3: 
+
+
+TEST 4:
