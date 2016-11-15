@@ -1,3 +1,5 @@
+TEST 0: Only to test if passes are working correctly. Remove it before final artifact.
+
 TEST 1: Comparing SRAA no alias responses with BASICAA and CFL-AA.
 				Target: LLVM's test-suite
 
